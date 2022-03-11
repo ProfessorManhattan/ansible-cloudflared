@@ -43,11 +43,35 @@ classifiers = [
   "Topic :: System :: Installation/Setup",
   "Topic :: Utilities"
 ]
-description = "Installs CloudFlare Argo Tunnel Client on nearly any system"
+description = "Installs Argo Tunnel Client on nearly any system"
 documentation = "https://megabyte.space/docs/ansible/roles"
 homepage = "https://megabyte.space"
 include = ["CHANGELOG.md", "LICENSE"]
-keywords = [""]
+keywords = [
+  "ansible",
+  "ansible-role",
+  "archlinux",
+  "argo",
+  "centos",
+  "cloudflare",
+  "debian",
+  "doctor",
+  "fedora",
+  "install",
+  "installdoc",
+  "installdoctor",
+  "macos",
+  "mblabs",
+  "megabytelabs",
+  "molecule",
+  "privacy",
+  "professormanhattan",
+  "role",
+  "tunnel",
+  "ubuntu",
+  "washingtondc",
+  "windows"
+]
 license = "MIT"
 name = "ansible-cloudflared"
 readme = "README.md"

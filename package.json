@@ -2,7 +2,7 @@
   "private": false,
   "name": "@installdoc/ansible-cloudflared",
   "version": "1.0.0",
-  "description": "Installs CloudFlare Argo Tunnel Client on nearly any system",
+  "description": "Installs Argo Tunnel Client on nearly any system",
   "license": "MIT",
   "author": "Brian Zalewski <brian@megabyte.space> (https://megabyte.space)",
   "homepage": "https://megabyte.space",
@@ -70,11 +70,14 @@
     "node": ">=14.18.0"
   },
   "publishConfig": {
-    "@megabyte:registry": "https://gitlab.com/api/v4/projects//packages/npm/",
+    "@megabyte:registry": "https://gitlab.com/api/v4/projects/34402606/packages/npm/",
     "access": "public"
   },
   "blueprint": {
     "description": "Installs Argo Tunnel Client on nearly any system",
+    "github_id": "R_kgDOG-9RVQ",
+    "gitlab_group_id": "12261670",
+    "gitlab_project_id": "34402606",
     "group": "ansible",
     "name": "CloudFlared",
     "overview": "[CloudFlare Argo Tunnel Client](https://developers.cloudflare.com/argo-tunnel/) contains the command-line client for CloudFlare Argo Tunnel, a tunneling daemon that proxies any local webserver through the Cloudflare network.",
@@ -84,10 +87,7 @@
     },
     "slug": "cloudflared",
     "subgroup": "role",
-    "title": "CloudFlare Argo Tunnel Client",
-    "github_id": "R_kgDOG-9RVQ",
-    "gitlab_project_id": "34402606",
-    "gitlab_group_id": "12261670"
+    "title": "CloudFlare Argo Tunnel Client"
   },
   "changelog": {
     "displayTypes": [
