@@ -1,6 +1,7 @@
 ---
 galaxy_info:
   role_name: cloudflared
+  namespace: professormanhattan
   author: ProfessorManhattan
   description: Installs Argo Tunnel Client on nearly any system
   company: Megabyte Labs
@@ -38,5 +39,4 @@ galaxy_info:
     - ubuntu
     - washingtondc
     - windows
-  namespace: professormanhattan
 dependencies: []

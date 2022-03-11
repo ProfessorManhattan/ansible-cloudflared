@@ -84,7 +84,10 @@
     },
     "slug": "cloudflared",
     "subgroup": "role",
-    "title": "CloudFlare Argo Tunnel Client"
+    "title": "CloudFlare Argo Tunnel Client",
+    "github_id": "R_kgDOG-9RVQ",
+    "gitlab_project_id": "34402606",
+    "gitlab_group_id": "12261670"
   },
   "changelog": {
     "displayTypes": [
