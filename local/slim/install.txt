@@ -30,3 +30,6 @@ install:npm:husky
 install:software:jq
 install:software:yq
 install:software:jq
+install:npm:husky
+install:npm:commitizen
+install:npm:commitlint
